@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.6.0.6-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="352.024pt" height="143.822pt" viewBox="159.33 -1639.65 352.024 143.822">
+ <defs>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="131.7" y2="-264.565" gradientTransform="matrix(-0.723114 -0.690735 0.690735 -0.723114 119.969 -76.945)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#000000"/>
+  </linearGradient>
+  <style type="text/css">@import url('https://themes.googleusercontent.com/fonts/css?family=Comfortaa:700');
+@import url('https://themes.googleusercontent.com/fonts/css?family=Open Sans:400,600');</style>
+ </defs>
+ <g id="Layer 1" transform="scale(1 -1)">
+  <g id="Group" stroke="none">
+   <mask id="TranspMask">
+    <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#LinearGradient)" stroke="none"/>
+   </mask>
+   <ellipse rx="71.922" ry="71.922" transform="translate(231.241 1567.74) rotate(136.312)" fill="#ebf0fc" stroke-width="1.243" stroke-linejoin="miter" mask="url(#TranspMask)"/>
+   <text xml:space="preserve" transform="translate(318.304 1577.48) scale(1 -1)" kerning="auto" stroke-width="0.947" stroke-linejoin="round" stroke-linecap="round" font-family="Comfortaa" font-weight="bold"><tspan x="0" y="0" font-size="40.595" fill="#b4c348">Access</tspan><tspan x="145.828" y="0" font-size="37.877" fill="#b4c348"> </tspan><tspan x="0" y="44.019" font-size="39.195" fill="#485566">E-Market</tspan></text>
+   <g id="Group_1" stroke-linejoin="miter" stroke-width="0.251">
+    <g id="Group_2" fill-rule="nonzero" fill="#b4c348">
+     <path d="M 264.761,1616.97 L 264.761,1609.05 L 252.88,1609.05 C 251.628,1609.05 250.452,1608.46 249.709,1607.47 L 239.023,1593.21 L 229.124,1593.21 C 228.072,1593.21 227.067,1592.8 226.324,1592.05 L 215.604,1581.33 L 205.366,1581.33 C 204.576,1581.33 203.818,1581.1 203.17,1580.67 L 192.28,1573.41 L 189.528,1573.41 C 188.105,1573.43 186.774,1572.68 186.048,1571.45 C 185.335,1570.21 185.335,1568.7 186.048,1567.46 C 186.774,1566.22 188.105,1565.48 189.528,1565.5 L 193.488,1565.5 C 194.276,1565.5 195.033,1565.73 195.684,1566.16 L 206.572,1573.41 L 217.244,1573.41 C 218.297,1573.41 219.301,1573.83 220.043,1574.57 L 230.762,1585.29 L 241.001,1585.29 C 242.254,1585.29 243.43,1585.88 244.172,1586.88 L 254.861,1601.13 L 264.761,1601.13 L 264.761,1593.21 L 276.638,1605.09 Z M 260.799,1585.29 C 258.619,1585.29 256.839,1583.51 256.839,1581.33 L 256.839,1525.9 L 272.679,1525.9 L 272.679,1581.33 C 272.679,1583.51 270.901,1585.29 268.72,1585.29 Z M 237.041,1573.41 C 234.861,1573.41 233.083,1571.63 233.083,1569.45 L 233.083,1525.9 L 248.921,1525.9 L 248.921,1569.45 C 248.921,1571.63 247.142,1573.41 244.962,1573.41 Z M 213.285,1561.54 C 211.104,1561.54 209.326,1559.76 209.326,1557.58 L 209.326,1525.9 L 225.163,1525.9 L 225.163,1557.58 C 225.163,1559.76 223.386,1561.54 221.203,1561.54 Z M 189.528,1549.66 C 187.346,1549.66 185.567,1547.88 185.567,1545.7 L 185.567,1525.9 L 201.405,1525.9 L 201.405,1545.7 C 201.405,1547.88 199.628,1549.66 197.447,1549.66 Z" marker-start="none" marker-end="none"/>
+    </g>
+    <rect x="-21.778" y="-7.919" width="43.556" height="15.839" transform="translate(241.001 1547.68) rotate(90)" fill="#485566"/>
+    <rect x="-21.778" y="-7.919" width="43.556" height="15.839" rx="184.506625334043" ry="184.506625334043" transform="translate(241.001 1551.83) rotate(90)" fill="#485566"/>
+    <rect x="-10.888" y="-7.919" width="21.777" height="15.839" transform="translate(193.434 1536.79) rotate(90)" fill="#485566"/>
+    <rect x="-10.888" y="-7.919" width="21.777" height="15.839" rx="364.512396133221" ry="364.512396133221" transform="translate(193.434 1538.86) rotate(90)" fill="#485566"/>
+   </g>
+  </g>
+ </g>
+</svg>
