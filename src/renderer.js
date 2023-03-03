@@ -31,16 +31,10 @@ import './assets/css/Nunito.css';
 import './assets/bootstrap/css/bootstrap.min.css';
 import './assets/bootstrap/js/bootstrap.min.js';
 import './assets/js/bs-init';
-import './assets/js/chart.min.js';
 import './assets/js/theme.js';
+import './assets/fonts/fontawesome-all.min.css';
 
-import './assets/img/avatars/*';
-import './assets/img/dogs/*';
  
  
- 
- 
-
-
 
 console.log('👋 This message is being logged by "renderer.js", included via webpack');

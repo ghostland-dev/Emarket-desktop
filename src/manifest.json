@@ -1,1 +1,18 @@
-{"short_name":"E-Market","name":"Access E-market","icons":[{"src":"/assets/img/E-market-logo.svg","type":"image/svg+xml","sizes":"469x192"},{"src":"/assets/img/E-market-logo.svg","type":"image/svg+xml","sizes":"469x192"}],"start_url":"index.html","display":"fullscreen"}
+{
+    "short_name": "E-Market",
+    "name": "Access E-market",
+    "icons": [
+        {
+            "src": "/assets/img/E-market-logo.svg",
+            "type": "image/svg+xml",
+            "sizes": "469x192"
+        },
+        {
+            "src": "/assets/img/E-market-logo.svg",
+            "type": "image/svg+xml",
+            "sizes": "469x192"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen"
+}
